@@ -7,12 +7,10 @@ Movie Lobby API is a RESTful API for managing movies. It allows users to perform
 ## Installation
 
 1. **Clone the repository:**
-
-1. Clone the repository:
-
+   
    ```bash
    git clone <repository-url>
 
-2. **Install dependencies:**
+3. **Install dependencies:**
    cd movie-lobby-api
    npm install
